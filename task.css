@@ -1,0 +1,27 @@
+*{
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+  
+header {
+    background-color: #c0baba;
+    height: 100px;
+}
+main{
+    height:585px;
+}
+
+  
+footer{
+    background-color: #c0baba;
+    color: white;
+    text-align: center;
+    height: 50px;
+}
+  
